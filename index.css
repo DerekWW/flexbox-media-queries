@@ -1,0 +1,15 @@
+.container {
+width: 50%;
+height: 500px;
+border: 5px solid orange;
+margin: auto;
+}
+
+.item {
+  height: 70px;
+  width: 100px;
+  background-color: lightblue;
+}
+
+
+/*********************************************/
