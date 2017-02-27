@@ -1,14 +1,16 @@
 .container {
-width: 50%;
+width: 70%;
 height: 500px;
 border: 5px solid orange;
 margin: auto;
+text-align: center;
 }
 
 .item {
   height: 70px;
   width: 100px;
   background-color: lightblue;
+  margin: 5px;
 }
 
 
