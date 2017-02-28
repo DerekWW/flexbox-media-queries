@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .container {
 width: 70%;
 height: 500px;
