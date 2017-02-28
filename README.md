@@ -123,3 +123,12 @@ We can even use media queries to specify which css file should be used.
 `<link rel="stylesheet" media="(max-width: 419px)" href="mobile.css" />`
 
 ***Note:*** Always put your media queries in order from smallest to largest. Remember that if you have two of the same rule applying to the same element the lower one will overwrite the one above. In the case of media queries we want this to happen as we enlarge the screen and trigger different media queries.
+
+### Viewports
+We can also make sure that our page can render properly on different devices that, even though they have the same screen size, have different resolutions. We do this through the use of the `meta` tag in our html document. You can set up different viewports for almost any different device, allowing you to fine tune your site for particular devices. The standard was of doing a generic mobile viewport is this:
+
+`<meta name="viewport" content="width=device-width, initial-scale=1">`
+
+This is setting our viewport to use the width that is the same as the device that is displaying the content. The initial-scale value is the level of zoom we want the page to have on initial load.
+
+[MDN Viewport Meta Tag](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
