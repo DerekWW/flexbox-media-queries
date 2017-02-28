@@ -132,3 +132,10 @@ We can also make sure that our page can render properly on different devices tha
 This is setting our viewport to use the width that is the same as the device that is displaying the content. The initial-scale value is the level of zoom we want the page to have on initial load.
 
 [MDN Viewport Meta Tag](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
+
+#### Resources
+[Flexbox Froggy](http://flexboxfroggy.com/)
+
+[Flexbox tower defense](http://www.flexboxdefense.com/)
+
+*****[Gifs sourced from freecodecamp article](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.80akkiqf1)*****
