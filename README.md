@@ -1,4 +1,4 @@
-# Flexbox and Media Queries Lecture
+# Flexbox and Media Queries 
 <hr>
 
 ### What is flexbox?
