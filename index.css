@@ -8,18 +8,42 @@ text-align: center;
 
 .item {
   height: 70px;
-  width: 100px;
+  width: 200px;
   background-color: lightblue;
   margin: 5px;
 }
 
+p {
+  margin: auto;
+}
 
-/*********************************************/
+
+/****************** Your code below here ***************************/
 
 .container {
 
 }
 
 .item {
+
+}
+
+#one {
+
+}
+
+#two {
+
+}
+
+#three {
+
+}
+
+#four {
+
+}
+
+#five {
 
 }
