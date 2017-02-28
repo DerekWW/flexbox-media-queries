@@ -15,9 +15,9 @@ We will be walking through using the included HTML and CSS file. Flexbox has two
 
 ![flexbox axis](https://cdn-images-1.medium.com/max/800/1*_Ruy6jFG7gUpSf76IUcJTQ.png)
 
-By default a flex container will put all elements on the main axis with no wrapping, even it it has to shrink the elements. Lets try it!
+By default a flex container will put all elements on the main axis with no wrapping, even if it has to shrink the elements. Lets try it!
 
-In the index.css file give container class the `display: flex;` property. Reload the HTML page. What has happened? The block level elements have shifted to sit along the main-axis, and also moved to the start of the cross-axis.
+In the index.css file give the container class the `display: flex;` property. Reload the HTML page. What has happened? The block level elements have shifted to sit along the main-axis, and also moved to the start of the cross-axis!
 
 ![axis-gif](https://cdn-images-1.medium.com/max/1000/1*L2W-ziqU45a1BNWV79ijDQ.gif)
 
